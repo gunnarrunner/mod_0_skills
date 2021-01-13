@@ -1,0 +1,9 @@
+food = "burrito"
+is_deliscious = true
+food = "taco"
+num2 = 24
+num7 = 8
+quotient = num7/num2
+songs = ["Dreams and Nightmares", "Blinding Lights", "Streets"]
+songs.shift
+food.count
