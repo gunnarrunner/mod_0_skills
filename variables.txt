@@ -6,4 +6,4 @@ num7 = 8
 quotient = num7/num2
 songs = ["Dreams and Nightmares", "Blinding Lights", "Streets"]
 songs.shift
-food.count
+food.length
